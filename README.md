@@ -1,0 +1,2 @@
+# Webtec-Project-Travelling-Site-
+A simple website which keep track of different place information among Bangladesh and traveler information whom want to travel those place.  In this project there are two separate part- one for users, by this user can search and booking for a place for travel and the backend is for admin to handle the all place information, user information and travelling schedule information. I have used HTML and CSS for design the frontend and PHP to handle the backend. I have used MySQL as database and JavaScript for validation.
